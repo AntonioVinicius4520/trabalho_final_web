@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    box-shadow: 2px 0 2px 2px black;
+}
+
+.header-logo {
+    
+}
+
+.main-content {
+    margin-top: 20px;
+}
+
+.topicos {
+    background-color: #F2F2F2;
+}
+
+h1,
+h2 {
+
+    border-bottom: 1px solid black;
+}
+
+p {
+    text-indent: 2rem;
+}
+
+.card-body ul {
+    list-style: none;
+}
+
+.card-body a {
+    text-decoration: none;
+}
+
+.form-group {
+    margin: 15px 0;
+}
